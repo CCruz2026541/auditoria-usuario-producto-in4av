@@ -1,0 +1,35 @@
+.etiqueta{
+    -fx-font-size:20px;
+}
+.campo{
+    -fx-border-color: #66ffcc;
+    -fx-text-fill: #009966;
+    -fx-background-color: white;
+    -fx-border-width: 2px;
+    -fx-border-radius: 8px
+}
+.link{
+    -fx-text-fill: #00F;
+}
+.link:hover{
+    -fx-text-fill: #f00;
+}
+.link:pressed{
+    -fx-text-fill: #ffff88;
+}
+#btn-login{
+    -fx-background-color:#003333;
+    -fx-border-color: #66ffcc;
+    -fx-text-fill: #009966;
+    -fx-background-color: white;
+    -fx-border-width: 2px;
+    -fx-border-radius: 8px
+}
+
+#btn-login:hover{
+    -fx-background-color:#003333;
+    -fx-text-fill:#66ffcc;
+}
+#btn-login:pressed{
+    -fx-border-color:#00ff00;
+}
